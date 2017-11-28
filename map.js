@@ -1,8 +1,8 @@
 
-//just my map append from different file for example
+//my map append from different file 
 var sMapTags='<div class="" id="input-div"><input id="pac-input" class="controls" type="text" placeholder="City, Address, ZIP code"></div>\
     <div id="map"></div><div id="map-properties"></div>';
-
+// end of map append
 
 
 
